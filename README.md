@@ -4,3 +4,7 @@
 Brute force
 Quad algorithm
 QuadTree algorithm
+
+
+Press "d" to enable debugging lines.
+Press "f" to switch algorithms during runtime.
