@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Quadtree.cpp
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\quadtree.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+  quadAlgorithm.cpp
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\quadalgorithm.cpp(67): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\quadalgorithm.cpp(67): warning C4154: deletion of an array expression; conversion to pointer supplied
+  pworld.cpp
+  pcontacts.cpp
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\pcontacts.cpp(86): warning C4056: overflow in floating-point constant arithmetic
+  ParticleCollision.cpp
+  particle.cpp
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\particle.cpp(40): warning C4056: overflow in floating-point constant arithmetic
+  NodeTree.cpp
+  main.cpp
+  BlobDemo.cpp
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\blobdemo.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'const float'
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\blobdemo.cpp(186): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  app.cpp
+  Generating Code...
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\particle.cpp(40): warning C4756: overflow in constant arithmetic
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\particle.cpp(40): warning C4756: overflow in constant arithmetic
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\pcontacts.cpp(86): warning C4756: overflow in constant arithmetic
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\pcontacts.cpp(86): warning C4756: overflow in constant arithmetic
+e:\data structures\assignment 1\cs4d768 tutorial 5-2015student_ooblob\cs4d768 tutorial 5-2015student_ooblob\src\quadtree.cpp(84): warning C4715: 'Quadtree::insert' : not all control paths return a value
+  Sphere.vcxproj -> E:\Data Structures\Assignment 1\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\Sphere\..\Debug\Sphere.exe

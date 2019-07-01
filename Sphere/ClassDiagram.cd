@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Platform" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACAAAAAAAgAAgAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\src\BlobDemo.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlobDemo" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAAIAAEQAEAAAGAAAgIBIAkAAAAEAAAAEAgEBAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\src\BlobDemo.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAgACAQAQAAAAiBAAAEAAAAAAQAgAEAEAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\app.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAABhBAgAQIAAAQAAAAcAAAAAAYBgAAAAAAI=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\coreMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAoQAACAAABgAABAIAYAAGAAIAAEQACYRQAABAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleCollision" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAAAAAAAAAACgEAAAAAJABAAAAIAAAAAAAgAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\ParticleCollision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleContact" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAAAAAAAAAgAgAAAAABCEAAgAAAAAAEAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pcontacts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleContactResolver" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAgAAAgAAAgAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pcontacts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleContactGenerator" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pcontacts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleWorld" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="ParticleWorld::Particles" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pworld.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="ParticleWorld::ContactGenerators" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pworld.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAQBAAESAAEAAAgAAAAgAAAACAAAAQAIAAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\pworld.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quadAlgorithm" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAggAACAAIABAAAAIAAABAAAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\quadAlgorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeTree">
+    <Position X="7.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAEEAAAAAAAAgAIAAIAIAAIAAAAIAAAAAEAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\NodeTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadtree" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAABAEAAABACEUAQMIAAAgABQggABAABABgAACAAAA=</HashCode>
+      <FileName>C:\Users\nicky\Desktop\Current working version\CS4D768 Tutorial 5-2015Student_OOblob\CS4D768 Tutorial 5-2015Student_OOblob\include\Quadtree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>
